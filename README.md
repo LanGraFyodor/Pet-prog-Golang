@@ -1,4 +1,4 @@
-# Академия Бэкенда — Go Edition <img src="images/image.png" style="height: 20px; object-fit: cover;"/>
+# Pet-prog-Golang <img src="images/image.png" style="height: 20px; object-fit: cover;"/>
 
 Приветствую тебя, странник!
 
